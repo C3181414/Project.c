@@ -1,8 +1,10 @@
 #include <stdio.h>
 
-int main() {
-    
-    printf("adq");
+char encryption [0,25];
+int i, key;
 
-  return 0;
+int main (){
+	
+		
+		
 }
