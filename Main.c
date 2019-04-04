@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-main() {
+int main() {
     
-    printf("aspd");
+    printf("adq");
 
   return 0;
 }
