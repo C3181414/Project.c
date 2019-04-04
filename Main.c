@@ -1,10 +1,14 @@
 #include <stdio.h>
 
-char encryption [0,25];
-int i, key;
+char e[25];
+int i, k;
 
 int main (){
+    
+    for (i = -25; i < 26; i++);
+        
+    
 	
-		
+    return 0;
 		
 }
