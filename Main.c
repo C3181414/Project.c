@@ -1,6 +1,8 @@
 #includestdio.h
 
-main () {
+main() {
+    
+    printf("asdf");
 
   return 0;
 }
